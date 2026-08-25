@@ -17,7 +17,7 @@
     "/content/saudia/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/saudia/",
+    "/content/dam/saudia/"
   ]
 }
